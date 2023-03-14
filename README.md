@@ -10,8 +10,8 @@ We collect tweets posted between 29-01-2020 and 31-07-2022. We divide the durati
 
 There are two folders:
 
-1. **[UAE-COVID-19-Related-Tweets](url)** which includes all the tweets COVID-19-related in UAE 
-2. **[UAE-COVID-19-Related-Tweets](url)** which includes all the tweets COVID-19-reated in UAE annotated with **TextBlob**, **VADER**, **Canadian Emotion**, and the **final annotation** which constitute of the **three sentiments (negative, positive, and neutral),** and **Plutchik’s eight emotions [24–26] (joy, fear, anger, anticipation, sadness, surprise, disgust, and trust)** .  Whether each tweet is vaccine-related or non-vaccine-related is also used to classify the tweet.
+1. **UAE-COVID-19-Related-Tweets** which includes all the tweets COVID-19-related in UAE 
+2. **UAE-COVID-19-Related-Tweets** which includes all the tweets COVID-19-reated in UAE annotated with **TextBlob**, **VADER**, **Canadian Emotion**, and the **final annotation** which constitute of the **three sentiments (negative, positive, and neutral),** and **Plutchik’s eight emotions [24–26] (joy, fear, anger, anticipation, sadness, surprise, disgust, and trust)** .  Whether each tweet is vaccine-related or non-vaccine-related is also used to classify the tweet.
 
 ## Abstract
 
