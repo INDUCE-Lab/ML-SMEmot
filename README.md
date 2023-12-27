@@ -1,4 +1,5 @@
 # ML-SocMedEmot
+
 Machine Learning Event-based Social Media Emotion Detection Proactive Preparedness Framework Addressing Mental Health: A Novel Twitter Dataset, and Case Study of COVID-19 Vaccine in the United Arab Emirates
 
 A novel Twitter dataset of over 11 Thousands COVID-19 vaccine-related-and-non-vaccine-related tweets.
@@ -16,16 +17,15 @@ We comply with Twitter’s Terms of Service by anonymizing the datasets which co
 
 ## Abstract
 
-
+Global rapidly evolving events, e.g., COVID-19, are usually followed by countermeasures and policies. As a reaction, the public tends to express their emotions on social media platforms. Therefore, predicting emotional responses to events is critical to put a plan to avoid risky behaviors. This paper proposes a Machine Learning-Natural Language Processing-based framework to detect public emotions based on social media posts in response to specific events. It presents a precise measurement of population-level emotions which can aid governance in monitoring public response and guide it to put in place strategies such as targeted monitoring of mental health, to react to a rise in negative emotions in response to lockdowns, or information campaigns, for instance in response to elevated rates of fear in response to vaccination programs. We evaluate our framework by extracting 15,455 tweets. We annotate and categorize the emotions into 11 categories based on Plutchik’s study of emotion and extract the features using a combination of Bag of Words and Term Frequency-Inverse Document Frequency. We filter 813 COVID-19 vaccine-related tweets and use them to demonstrate our framework’s effectiveness. Numerical evaluation of emotions prediction using Random Forest and Logistic Regression shows that our framework predicts emotions with an accuracy up to 95.5%.
 
 ## About this work
+
 This work proposes a novel Machine-Learning event-based framework to detect people emotions on Social Media. Unlike related work in the literature which focus on polarity emotions (negative, positive, and neutral), this paper detects Plutchik’s eight emotions (joy, fear, anger, anticipation, sadness, surprise, disgust, and trust), in addition to polarity emotions.
 
 We create a novel twitter dataset annotated with emotions.  This dataset is a vehicle for research on Social Media Emotion Detection.
 
 
 ## Cite this work
-
-
-## References
+L. Ismail, N. Shahin, H. Materwala, A. Hennebelle and L. Frermann, "ML-NLPEmot: Machine Learning-Natural Language Processing Event-Based Emotion Detection Proactive Framework Addressing Mental Health," in IEEE Access, vol. 11, pp. 144126-144149, 2023, doi: 10.1109/ACCESS.2023.3343121.
 
