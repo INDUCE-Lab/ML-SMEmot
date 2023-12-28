@@ -8,10 +8,9 @@ We collect tweets posted between 29-01-2020 and 31-07-2022. We divide the durati
 
 1) 29-01-2020 – 14-09-2020, from the first case of COVID-19 in UAE until the vaccination announcement, 2) 14-09-2020 – 09-12-2020, from the announcement of vaccination until the commencement of the vaccination program, and 3) 09-12-2020 – 31-07-2022, which is from the commencement of the vaccination program till the time of writing the paper
 
-The information related to the Tweets dataset is represented in the following two files:
+The information related to the Tweets dataset is represented in the following file:
 
-1. **UAE-COVID-19-Vaccine-Related-Tweets** which includes all the tweets COVID-19-vaccine-related in UAE 
-2. **UAE-COVID-19-Vaccine-Related-Tweets_Annotated** which includes all the tweets COVID-19-vaccine-related in UAE annotated with **TextBlob**, **VADER**, **Canadian Emotion**, and the **final annotation** which constitute of the **three sentiments (negative, positive, and neutral),** and **Plutchik’s eight emotions (joy, fear, anger, anticipation, sadness, surprise, disgust, and trust)**.
+**dataset/UAE-COVID-19-Vaccine-Related-Tweets_Annotated** which includes all the tweets COVID-19-vaccine-related in UAE annotated with **TextBlob**, **VADER**, **Canadian Emotion**, and the **final annotation** which constitute of the **three sentiments (negative, positive, and neutral),** and **Plutchik’s eight emotions (joy, fear, anger, anticipation, sadness, surprise, disgust, and trust)**.
 
 We comply with Twitter’s Terms of Service by anonymizing the datasets which constitute tweet IDs.  
 
